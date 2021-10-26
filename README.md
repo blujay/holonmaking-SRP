@@ -8,5 +8,6 @@ A template for creating holons using Probuilder with Photon Pun and Oculus integ
 - Install Probuilder 4.52 from package manager  
 - Setup project for Android device  
 - Create a new Photon Pun instance and enter ID into photon settings  
-- Ensure you have
+- Ensure you have all holons you will be spawning in the Resources folder for Photon Pun muliplayer to work
+- Scene setup in Build settings - ensure you have lobby as scene 0, and add your own scene
     
